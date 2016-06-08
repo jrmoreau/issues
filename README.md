@@ -1,5 +1,6 @@
-!(https://github.com/blockapps/issues/blob/master/blockapps-logo-128.png?raw=true "")    
-# Welcome
+![](https://github.com/blockapps/issues/blob/master/blockapps-logo-128.png?raw=true "")    
+# Welcome  
+
 Your feedback and bug reports are extremely important to us.
 
 Please follow these guidelines when reporting, and we will get back to you as quickly as we can.
