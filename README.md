@@ -8,7 +8,7 @@ Please follow these guidelines when reporting, and we will get back to you as qu
 ## General Questions and Feature Requests
 Please post those in our public forums at http://forums.blockapps.net
 
-## Issues
+## Issue Report template
 When reporting an issue, please make sure to include all of the following:
 * The product used when the issue occured
 * The version of the product
