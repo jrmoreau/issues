@@ -17,3 +17,5 @@ When reporting an issue, please make sure to include all of the following:
 * The client's environment (Node version, TBD)
 * Describe in as many details as possible what were the expected vs actual results. Include logs and screen captures if you have them.
 * Include a detailed step by step instructions on how to reproduce the bug.
+
+Thank you!  The BlockApps team.
