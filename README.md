@@ -1,3 +1,5 @@
+**PLEASE NOTE - Github Issues Repositories for Bloc and BlockApps.JS as well as the Gitter chat channels will be closed on Friday, January 20th. Issues must be logged on http://forums.blockapps.net moving forward. Issues logged anywhere else, including Github or Gitter will no longer be monitored.**
+
 # Issue Report template
 Your feedback and bug reports are extremely important to us.
 Please follow these guidelines when reporting, and we will get back to you as quickly as we can.
